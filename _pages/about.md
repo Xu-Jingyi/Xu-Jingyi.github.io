@@ -16,10 +16,10 @@ Email: jingyi_xu@mymail.sutd.edu.sg / xujingyi1997@gmail.com
 
 ## Publications
 
-**Jingyi Xu**, Tushar Vaidya, Yufei Wu, Saket Chandra, Zhangsheng Lai, and Kai Fong Ernest Chong (2023). “Abstract Visual Reasoning: An Algebraic Approach for Solving Raven’s Progressive Matrices”. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 6715–672 [link](https://arxiv.org/abs/2303.11730)
+**Jingyi Xu**, Tushar Vaidya, Yufei Wu, Saket Chandra, Zhangsheng Lai, and Kai Fong Ernest Chong (2023). “Abstract Visual Reasoning: An Algebraic Approach for Solving Raven’s Progressive Matrices”. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 6715–672 [(link)](https://arxiv.org/abs/2303.11730)
 
-Zihan Chen, Zeshen Li, and **Jingyi Xu** (2022). “Analog over-the-air federated learning with real-world data”. In: 2022 IEEE International Conference on Sensing, Communication, and Networking (SECON Workshops). IEEE, pp. 31–36. [link](https://ieeexplore.ieee.org/document/9926339)
+Zihan Chen, Zeshen Li, and **Jingyi Xu** (2022). “Analog over-the-air federated learning with real-world data”. In: 2022 IEEE International Conference on Sensing, Communication, and Networking (SECON Workshops). IEEE, pp. 31–36. [(link)](https://ieeexplore.ieee.org/document/9926339)
 
-**Jingyi Xu**, Zihan Chen, Tony Q.S. Quek, and Kai Fong Ernest Chong. (2022). “Fedcorr: Multi-stage federated learning for label noise correction”. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 10184–10193. [link](https://arxiv.org/abs/2204.04677)
+**Jingyi Xu**, Zihan Chen, Tony Q.S. Quek, and Kai Fong Ernest Chong. (2022). “Fedcorr: Multi-stage federated learning for label noise correction”. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 10184–10193. [(link)](https://arxiv.org/abs/2204.04677)
 
-**Jingyi Xu**, Tony Q.S. Quek, and Kai Fong Ernest Chong (2021). “Training classifiers that are universally robust to all label noise levels”. In: 2021 International Joint Conference on Neural Networks (IJCNN). IEEE, pp. 1–8. [link](https://arxiv.org/abs/2105.13892)
+**Jingyi Xu**, Tony Q.S. Quek, and Kai Fong Ernest Chong (2021). “Training classifiers that are universally robust to all label noise levels”. In: 2021 International Joint Conference on Neural Networks (IJCNN). IEEE, pp. 1–8. [(link)](https://arxiv.org/abs/2105.13892)
